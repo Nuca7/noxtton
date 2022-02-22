@@ -54,7 +54,7 @@ function RepositoryDetail() {
 
   return (
     <div style={{ width: "500px", margin: "50px auto" }}>
-      <Link to={"/"}>back to home</Link>
+      <Link to={"/noxtton"}>back to home</Link>
       <Card>
         <CardHeader
           avatar={

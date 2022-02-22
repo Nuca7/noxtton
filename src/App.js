@@ -8,9 +8,9 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Landing />} />
+        <Route path="/noxtton" element={<Landing />} />
         <Route
-          path="/repository/:user/:repository"
+          path="/noxtton/repository/:user/:repository"
           element={<RepositoryDetail />}
         />
         <Route path="*" element={<Error />} />

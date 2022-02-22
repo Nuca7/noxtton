@@ -27,8 +27,8 @@ function Repositories({ repositories }) {
               sx={{ width: 100, height: 100 }}
             />
 
-            <CardContent>
-              <Link to={`/repository/${full_name}`}>{full_name}</Link>
+            <CardContent className="repo-card-content">
+              <Link to={`/noxtton/repository/${full_name}`}>{full_name}</Link>
               <div style={{ display: "flex" }}>
                 <Star>{watchers}</Star>
                 <p>{language}</p>
