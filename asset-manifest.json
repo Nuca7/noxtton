@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/noxtton/static/css/main.04e383a0.css",
+    "main.js": "/noxtton/static/js/main.2ba7d591.js",
+    "index.html": "/noxtton/index.html",
+    "main.04e383a0.css.map": "/noxtton/static/css/main.04e383a0.css.map",
+    "main.2ba7d591.js.map": "/noxtton/static/js/main.2ba7d591.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04e383a0.css",
+    "static/js/main.2ba7d591.js"
+  ]
+}
